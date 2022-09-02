@@ -1,0 +1,60 @@
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Rambler_Horoscope_App.exe
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Rambler_Horoscope_App.deps.json
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Rambler_Horoscope_App.runtimeconfig.json
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Rambler_Horoscope_App.runtimeconfig.dev.json
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Rambler_Horoscope_App.dll
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\ref\Rambler_Horoscope_App.dll
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Rambler_Horoscope_App.pdb
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.csproj.AssemblyReference.cache
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\MainWindow.g.cs
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\App.g.cs
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App_MarkupCompile.cache
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App_MarkupCompile.lref
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\MainWindow.baml
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.g.resources
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.AssemblyInfoInputs.cache
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.AssemblyInfo.cs
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.csproj.CoreCompileInputs.cache
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.dll
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\ref\Rambler_Horoscope_App.dll
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.pdb
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.genruntimeconfig.cache
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Class_Library_For_Pase.dll
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\HtmlAgilityPack.dll
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Class_Library_For_Pase.pdb
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\HtmlAgilityPack.pdb
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\HtmlAgilityPack.xml
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Themes\ZodiackButton.baml
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\App.baml
+D:\Andrey\Labs 2 Course\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.csproj.CopyComplete
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Rambler_Horoscope_App.exe
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Rambler_Horoscope_App.deps.json
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Rambler_Horoscope_App.runtimeconfig.json
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Rambler_Horoscope_App.runtimeconfig.dev.json
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Rambler_Horoscope_App.dll
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\ref\Rambler_Horoscope_App.dll
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Rambler_Horoscope_App.pdb
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Class_Library_For_Pase.dll
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\HtmlAgilityPack.dll
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\Class_Library_For_Pase.pdb
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\HtmlAgilityPack.pdb
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\bin\Release\net5.0-windows\HtmlAgilityPack.xml
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.csproj.AssemblyReference.cache
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Themes\ZodiackButton.baml
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\MainWindow.g.cs
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\App.g.cs
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App_MarkupCompile.cache
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App_MarkupCompile.lref
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\App.baml
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\MainWindow.baml
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.g.resources
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.AssemblyInfoInputs.cache
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.AssemblyInfo.cs
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.csproj.CoreCompileInputs.cache
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.csproj.CopyComplete
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.dll
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\ref\Rambler_Horoscope_App.dll
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.pdb
+D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\Release\net5.0-windows\Rambler_Horoscope_App.genruntimeconfig.cache

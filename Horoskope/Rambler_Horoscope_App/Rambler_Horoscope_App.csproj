@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <Platforms>AnyCPU;x86</Platforms>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\Class_Library_Parse\Class_Library_Parse.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icon.png" />
+    <Resource Include="Images\aquarius.png" />
+    <Resource Include="Images\aries.png" />
+    <Resource Include="Images\cancer.png" />
+    <Resource Include="Images\caprico.png" />
+    <Resource Include="Images\gemini.png" />
+    <Resource Include="Images\leo.png" />
+    <Resource Include="Images\libra.png" />
+    <Resource Include="Images\pisces.png" />
+    <Resource Include="Images\sagittar.png" />
+    <Resource Include="Images\scorpio.png" />
+    <Resource Include="Images\taurus.png" />
+    <Resource Include="Images\virgo.png" />
+  </ItemGroup>
+
+</Project>
