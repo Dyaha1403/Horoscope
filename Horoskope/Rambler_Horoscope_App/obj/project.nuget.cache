@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yZ/AEI9cP0HH07X1PZYQggczFKwJfU4SrxA79ha/SfuovJOjNmDsJ3sOEKjByW+Jb3w2j2T1mU4ltxLhBFyjtg==",
+  "dgSpecHash": "u/jwPGxAyEQ1RzfwK0xoRDu+THT8Q+Z9ixj20EAnDLhPo83F404y7X3pr658uICEN3v7ntQRP36W43EH0kbsrg==",
   "success": true,
-  "projectFilePath": "D:\\Andrey\\Labs 2 course\\1 semester\\TIK\\Project\\Goroskope\\Rambler_Horoscope_App\\Rambler_Horoscope_App.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Andrey\\Project\\C#\\Horoscope\\Horoskope\\Rambler_Horoscope_App\\Rambler_Horoscope_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andriy\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
   "logs": []
 }

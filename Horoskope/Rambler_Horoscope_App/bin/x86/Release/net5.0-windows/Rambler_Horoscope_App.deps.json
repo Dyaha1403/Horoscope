@@ -8,22 +8,17 @@
     ".NETCoreApp,Version=v5.0": {
       "Rambler_Horoscope_App/1.0.0": {
         "dependencies": {
-          "Class_Library_Parse": "1.0.0"
+          "HtmlAgilityPack": "1.11.46"
         },
         "runtime": {
           "Rambler_Horoscope_App.dll": {}
         }
       },
-      "Class_Library_Parse/1.0.0": {
+      "HtmlAgilityPack/1.11.46": {
         "runtime": {
-          "Class_Library_For_Pase.dll": {}
-        }
-      },
-      "HtmlAgilityPack/1.11.38.0": {
-        "runtime": {
-          "HtmlAgilityPack.dll": {
-            "assemblyVersion": "1.11.38.0",
-            "fileVersion": "1.11.38.0"
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.46.0",
+            "fileVersion": "1.11.46.0"
           }
         }
       }
@@ -35,15 +30,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Class_Library_Parse/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "HtmlAgilityPack/1.11.38.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
+    "HtmlAgilityPack/1.11.46": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dLMn4EVfJBHWmWK4Uh0XGD76FPLHI0qr2Tm0s1m/xmgiHb1JUb9zB8AzO8HtrkBBlMN6JfCUBYddhqC0hZNR+g==",
+      "path": "htmlagilitypack/1.11.46",
+      "hashPath": "htmlagilitypack.1.11.46.nupkg.sha512"
     }
   }
 }

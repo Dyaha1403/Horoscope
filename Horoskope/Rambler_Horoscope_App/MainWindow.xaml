@@ -169,7 +169,8 @@
                         <RowDefinition Height="3"/>
                     </Grid.RowDefinitions>
                     <Grid Grid.Row="1">
-                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonAries" Click="ButtonAries_Click">
+                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonAries" Click="ButtonZodiack_Click"
+                                x:Uid="0">
                             <Grid Width="200">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="50"/>
@@ -182,7 +183,6 @@
                                            Foreground="White"
                                            FontSize="14"
                                            Margin="10, 0, 0, 0"
-
                                            FontWeight="ExtraBold"/>
 
                                 <Image Grid.Column="0" 
@@ -193,7 +193,8 @@
                         </Button>
                     </Grid>
                     <Grid Grid.Row="2">
-                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonTaurus" Click="ButtonTaurus_Click">
+                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonTaurus" Click="ButtonZodiack_Click"
+                                x:Uid="1">
                             <Grid Width="200">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="50"/>
@@ -215,7 +216,8 @@
                         </Button>
                     </Grid>
                     <Grid Grid.Row="3">
-                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonGemini" Click="ButtonGemini_Click">
+                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonGemini" Click="ButtonZodiack_Click"
+                                x:Uid="2">
                             <Grid Width="200">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="50"/>
@@ -237,7 +239,8 @@
                         </Button>
                     </Grid>
                     <Grid Grid.Row="4">
-                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonCancer" Click="ButtonCancer_Click">
+                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonCancer" Click="ButtonZodiack_Click"
+                                x:Uid="3">
                             <Grid Width="200">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="50"/>
@@ -259,7 +262,8 @@
                         </Button>
                     </Grid>
                     <Grid Grid.Row="5">
-                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonLeo" Click="ButtonLeo_Click">
+                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonLeo" Click="ButtonZodiack_Click"
+                                x:Uid="4">
                             <Grid Width="200">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="50"/>
@@ -281,7 +285,8 @@
                         </Button>
                     </Grid>
                     <Grid Grid.Row="6">
-                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonVirgo" Click="ButtonVirgo_Click">
+                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonVirgo" Click="ButtonZodiack_Click"
+                                x:Uid="5">
                             <Grid Width="200">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="50"/>
@@ -303,7 +308,8 @@
                         </Button>
                     </Grid>
                     <Grid Grid.Row="7">
-                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonLibra" Click="ButtonLibra_Click">
+                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonLibra" Click="ButtonZodiack_Click"
+                                x:Uid="6">
                             <Grid Width="200">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="50"/>
@@ -325,7 +331,8 @@
                         </Button>
                     </Grid>
                     <Grid Grid.Row="8">
-                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonScorpio" Click="ButtonScorpio_Click">
+                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonScorpio" Click="ButtonZodiack_Click"
+                                x:Uid="7">
                             <Grid Width="200">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="50"/>
@@ -347,7 +354,8 @@
                         </Button>
                     </Grid>
                     <Grid Grid.Row="9">
-                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonSagittar" Click="ButtonSagittar_Click">
+                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonSagittar" Click="ButtonZodiack_Click"
+                                x:Uid="8">
                             <Grid Width="200">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="50"/>
@@ -369,7 +377,8 @@
                         </Button>
                     </Grid>
                     <Grid Grid.Row="10">
-                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonCaprico" Click="ButtonCaprico_Click">
+                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonCaprico" Click="ButtonZodiack_Click"
+                                x:Uid="9">
                             <Grid Width="200">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="50"/>
@@ -391,7 +400,8 @@
                         </Button>
                     </Grid>
                     <Grid Grid.Row="11">
-                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonAquarius" Click="ButtonAquarius_Click">
+                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonAquarius" Click="ButtonZodiack_Click"
+                                x:Uid="10">
                             <Grid Width="200">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="50"/>
@@ -413,7 +423,8 @@
                         </Button>
                     </Grid>
                     <Grid Grid.Row="12">
-                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonPisces" Click="ButtonPisces_Click">
+                        <Button Style="{StaticResource ZodiackButton}" x:Name="ButtonPisces" Click="ButtonZodiack_Click"
+                                x:Uid="11">
                             <Grid Width="200">
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="50"/>

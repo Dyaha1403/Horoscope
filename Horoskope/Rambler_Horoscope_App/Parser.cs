@@ -1,8 +1,8 @@
 ﻿using HtmlAgilityPack;
 
-namespace Class_Library_For_Pase
+namespace Rambler_Horoscope_App
 {
-    public class Parser
+    class Parser
     {
         string[] zodiac_sign = new string[] { "aries", "taurus", "gemini",
                                               "cancer", "leo", "virgo",
@@ -27,7 +27,5 @@ namespace Class_Library_For_Pase
 
             return text;
         }
-
-
     }
 }

@@ -28,3 +28,29 @@ D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\o
 D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App.pdb
 D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App.genruntimeconfig.cache
 D:\Andrey\Labs 2 course\1 semester\TIK\Project\Goroskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\refint\Rambler_Horoscope_App.dll
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\bin\x86\Release\net5.0-windows\Rambler_Horoscope_App.exe
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\bin\x86\Release\net5.0-windows\Rambler_Horoscope_App.deps.json
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\bin\x86\Release\net5.0-windows\Rambler_Horoscope_App.runtimeconfig.json
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\bin\x86\Release\net5.0-windows\Rambler_Horoscope_App.runtimeconfig.dev.json
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\bin\x86\Release\net5.0-windows\Rambler_Horoscope_App.dll
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\bin\x86\Release\net5.0-windows\Rambler_Horoscope_App.pdb
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\bin\x86\Release\net5.0-windows\HtmlAgilityPack.dll
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App.csproj.AssemblyReference.cache
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Themes\ZodiackButton.baml
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\MainWindow.g.cs
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\App.g.cs
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App_MarkupCompile.cache
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App_MarkupCompile.lref
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\App.baml
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\MainWindow.baml
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App.g.resources
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App.AssemblyInfoInputs.cache
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App.AssemblyInfo.cs
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App.csproj.CoreCompileInputs.cache
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App.csproj.CopyComplete
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App.dll
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\refint\Rambler_Horoscope_App.dll
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App.pdb
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\Rambler_Horoscope_App.genruntimeconfig.cache
+D:\Andrey\Project\C#\Horoscope\Horoskope\Rambler_Horoscope_App\obj\x86\Release\net5.0-windows\ref\Rambler_Horoscope_App.dll
